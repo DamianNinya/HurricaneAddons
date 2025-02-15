@@ -7,7 +7,7 @@ While this repository doesn’t contain direct changes to framework core scripts
 
 All scripts in this repository are free to use, modify, and integrate into your own projects without the need for credit. Feel free to treat this code as your own! The only request is that you do not falsely claim authorship of the original scripts. If you are asked about the origin of the code, please be honest.
 
-## Dependencies
+## Common Dependencies
 
 Some scripts in this repository require one or both of the following assets:
 
